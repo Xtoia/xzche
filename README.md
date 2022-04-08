@@ -13,7 +13,7 @@ total_questions=3
 
 if answer.lower()=='yes':
 
-    answer=input('Question 1: What is your Favourite programming language?')
+    answer=input('Question 1: Какой твой любимый язык программирования?')
 
     if answer.lower()=='python':
 
