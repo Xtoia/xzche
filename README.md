@@ -1,5 +1,6 @@
 # xzche
 shabudet
+
 print('Welcome to AskPython Quiz')
 
 answer=input('Are you ready to play the Quiz ? (yes/no) :')
